@@ -1,0 +1,22 @@
+.col-form-label-sm {
+    font-weight: 600;
+}
+
+.other-loans-table {
+    width: auto;
+}
+
+.table .thead-light th {
+    font-weight: 500;
+    background-color: mediumseagreen;
+    color: white;
+}
+
+.navb-dr-item:active {
+    background-color: mediumseagreen;
+}
+
+.navb-dr-item:hover {
+    background-color: mediumseagreen;
+    color: white;
+}

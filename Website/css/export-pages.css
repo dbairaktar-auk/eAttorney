@@ -1,0 +1,21 @@
+.btn-primary {
+    background-color: mediumseagreen;
+    border-color: mediumseagreen;
+}
+
+.btn-primary:hover {
+    background-color: green;
+    border-color: green;
+}
+
+button.dt-button {
+    background-color: mediumseagreen;
+    border: none;
+    color: white;
+    border-radius: .25rem;
+}
+
+button.dt-button:hover:not(.disabled) {
+    border:none;
+    background-color: green;
+}
